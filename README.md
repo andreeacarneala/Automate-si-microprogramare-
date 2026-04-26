@@ -1,1 +1,2 @@
-Automate-si-microprogramare-
+Automate-si-microprogramare
+LALALALALALAL
