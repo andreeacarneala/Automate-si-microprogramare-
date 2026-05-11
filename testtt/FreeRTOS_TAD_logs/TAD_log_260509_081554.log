@@ -1,9 +1,0 @@
-"Task Aware Debugger for GDB" version 25.6.0 (202506250844)
-Copyright 2016-2025 NXP
-==================================
-08:14:33.124 INFO: [TadModel] DSF session ID 0 has started.
-08:14:38.933 INFO: [TadState] TAD state changed: DEBUG_STARTED -> DEBUG_INIT_0 (RESUMED, USER_REQUEST)
-08:14:38.944 INFO: [TadState] TAD state changed: DEBUG_INIT_0 -> DEBUG_INIT_1 (SUSPENDED, SIGNAL)
-08:14:41.74 INFO: [TadState] TAD state changed: DEBUG_INIT_1 -> DEBUG_SUSPENDED (RESUMED, USER_REQUEST)
-08:14:41.145 INFO: [TadState] TAD state changed: DEBUG_SUSPENDED -> DEBUG_SUSPENDED (SUSPENDED, BREAKPOINT)
-08:15:54.624 INFO: [TadModel] DSF session ID 0 has ended.
