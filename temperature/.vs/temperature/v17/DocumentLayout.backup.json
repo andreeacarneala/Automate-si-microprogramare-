@@ -92,7 +92,7 @@
               "RelativeDocumentMoniker": "temperature\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\senon\\Desktop\\Automate-si-microprogramare-\\temperature\\temperature\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "temperature\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAD4vzwAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-05-08T22:18:23.515Z",
               "EditorCaption": ""
@@ -119,8 +119,7 @@
               "RelativeToolTip": "temperature\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-07T15:49:56.682Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T15:49:56.682Z"
             },
             {
               "$type": "Document",
@@ -192,8 +191,7 @@
               "RelativeToolTip": "temperature\\Program.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T16:17:56.212Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-23T16:17:56.212Z"
             },
             {
               "$type": "Document",

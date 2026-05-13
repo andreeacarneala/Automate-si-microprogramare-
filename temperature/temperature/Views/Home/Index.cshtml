@@ -1,0 +1,99 @@
+﻿@model List<temperature.SensorData>
+
+@{
+    ViewData["Title"] = "Temperature Dashboard";
+}
+
+<!-- Include Chart.js -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<h1>Temperature Dashboard</h1>
+
+<!-- Canvas for the Chart -->
+<div style="margin-bottom: 30px;">
+    <canvas id="temperatureChart" height="100"></canvas>
+</div>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Temperature</th>
+            <th>Timestamp (Local)</th>
+        </tr>
+    </thead>
+    <tbody id="sensorTable">
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Temperature °C</td>
+                <td>@item.Timestamp.ToLocalTime()</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<script>
+    // 1. Initialize the Chart
+    const ctx = document.getElementById('temperatureChart').getContext('2d');
+    const temperatureChart = new Chart(ctx, {
+        type: 'line',
+        data: {
+            labels: [], 
+            datasets: [{
+                label: 'Temperature (°C)',
+                data: [],
+                borderColor: 'rgba(54, 162, 235, 1)',
+                backgroundColor: 'rgba(54, 162, 235, 0.2)',
+                borderWidth: 2,
+                fill: true,
+                tension: 0.3 // Adds a slight curve to the line
+            }]
+        },
+        options: {
+            responsive: true,
+            scales: {
+                x: { title: { display: true, text: 'Time' } },
+                y: {
+                    title: { display: true, text: 'Temperature (°C)' },
+                    min: 0,
+                    max: 70
+                }
+            }
+        }
+    });
+
+    async function refreshData() {
+        const response = await fetch('/api/SensorData');
+        const data = await response.json();
+
+        const table = document.getElementById('sensorTable');
+        table.innerHTML = '';
+        
+        data.forEach(item => {
+            const dateObj = new Date(item.timestamp);
+            const row = `
+                <tr>
+                    <td>${item.id}</td>
+                    <td>${item.temperature} °C</td>
+                    <td>${dateObj.toLocaleString()}</td>
+                </tr>
+            `;
+            table.innerHTML += row;
+        });
+
+        const chronologicalData = [...data].reverse();
+        
+        const labels = chronologicalData.map(item => new Date(item.timestamp).toLocaleTimeString());
+        const chartData = chronologicalData.map(item => item.temperature);
+
+        temperatureChart.data.labels = labels;
+        temperatureChart.data.datasets[0].data = chartData;
+        temperatureChart.update();
+    }
+
+    refreshData();
+
+    setInterval(refreshData, 5000);
+</script>
