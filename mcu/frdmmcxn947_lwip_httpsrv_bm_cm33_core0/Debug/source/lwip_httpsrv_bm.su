@@ -1,0 +1,6 @@
+../source/lwip_httpsrv_bm.c:63:6:send_temperature	48	static
+../source/lwip_httpsrv_bm.c:80:13:print_ipv6_addresses	24	static
+../source/lwip_httpsrv_bm.c:93:13:netif_ipv6_callback	16	static
+../source/lwip_httpsrv_bm.c:100:6:SysTick_Handler	8	static
+../source/lwip_httpsrv_bm.c:105:13:http_client_demo_result	24	static
+../source/lwip_httpsrv_bm.c:119:5:main	280	static
