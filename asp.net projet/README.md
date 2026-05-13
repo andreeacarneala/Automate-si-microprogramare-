@@ -1,2 +1,0 @@
-Automate-si-microprogramare
-LALALALALALAL

@@ -1,9 +1,0 @@
-﻿bin/
-obj/
-.vs/
-wwwroot/lib/
-*.user
-*.suo
-*.db
-*.sqlite
-appsettings.Development.json

@@ -1,9 +1,0 @@
-LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
-LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
-LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
-configDescList=org.eclipse.launchbar.core.descriptorType.default\:frdmmcxn947_lwip_httpsrv_bm_cm33_core0 Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:frdmmcxn947_lwip_httpsrv_bm_cm33_core0 LinkServer Debug
-eclipse.preferences.version=1
-org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:frdmmcxn947_lwip_httpsrv_bm_cm33_core0\ LinkServer\ Debug/activeLaunchMode=debug
-org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:frdmmcxn947_lwip_httpsrv_bm_cm33_core0\ LinkServer\ Debug/activeLaunchTarget=null\:---
-org.eclipse.launchbar.core.descriptorType.default\:frdmmcxn947_lwip_httpsrv_bm_cm33_core0\ Debug/activeLaunchMode=run
-org.eclipse.launchbar.core.descriptorType.default\:frdmmcxn947_lwip_httpsrv_bm_cm33_core0\ Debug/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
