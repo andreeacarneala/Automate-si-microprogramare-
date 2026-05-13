@@ -1,0 +1,7 @@
+C:\Users\senon\Documents\MCUXpressoIDE_25.6.136\kmn\frdmmcxn947_lwip_httpsrv_bm_cm33_core0\drivers/fsl_clock.h:1492:20:CLOCK_EnableClock	24	static
+C:\Users\senon\Documents\MCUXpressoIDE_25.6.136\kmn\frdmmcxn947_lwip_httpsrv_bm_cm33_core0\drivers/fsl_lpadc.h:1128:20:LPADC_DoSoftwareTrigger	16	static
+C:\Users\senon\Documents\MCUXpressoIDE_25.6.136\kmn\frdmmcxn947_lwip_httpsrv_bm_cm33_core0\drivers/fsl_spc.h:1105:20:SPC_EnableActiveModeAnalogModules	16	static
+../source/temperature.c:39:6:temperature_init	8	static
+../source/temperature.c:47:7:temperature_read	40	static
+../source/temperature.c:71:13:ADC_Init	88	static
+../source/temperature.c:105:17:ADC_ReadRaw	24	static
