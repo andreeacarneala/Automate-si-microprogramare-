@@ -1,49 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\senon\\Desktop\\temperature\\",
+  "WorkspaceRootPath": "C:\\Users\\senon\\Desktop\\Automate-si-microprogramare-\\temperature\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B0D39108-E369-4FB8-AB04-450F58330AEA}|temperature\\temperature.csproj|c:\\users\\senon\\desktop\\temperature\\temperature\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B0D39108-E369-4FB8-AB04-450F58330AEA}|temperature\\temperature.csproj|c:\\users\\senon\\desktop\\automate-si-microprogramare-\\temperature\\temperature\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B0D39108-E369-4FB8-AB04-450F58330AEA}|temperature\\temperature.csproj|solutionrelative:temperature\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0D39108-E369-4FB8-AB04-450F58330AEA}|temperature\\temperature.csproj|c:\\users\\senon\\desktop\\temperature\\temperature\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0D39108-E369-4FB8-AB04-450F58330AEA}|temperature\\temperature.csproj|solutionrelative:temperature\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0D39108-E369-4FB8-AB04-450F58330AEA}|temperature\\temperature.csproj|c:\\users\\senon\\desktop\\temperature\\temperature\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0D39108-E369-4FB8-AB04-450F58330AEA}|temperature\\temperature.csproj|solutionrelative:temperature\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0D39108-E369-4FB8-AB04-450F58330AEA}|temperature\\temperature.csproj|c:\\users\\senon\\desktop\\temperature\\temperature\\sensordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0D39108-E369-4FB8-AB04-450F58330AEA}|temperature\\temperature.csproj|solutionrelative:temperature\\sensordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0D39108-E369-4FB8-AB04-450F58330AEA}|temperature\\temperature.csproj|c:\\users\\senon\\desktop\\temperature\\temperature\\migrations\\20260423170511_firstversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0D39108-E369-4FB8-AB04-450F58330AEA}|temperature\\temperature.csproj|solutionrelative:temperature\\migrations\\20260423170511_firstversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0D39108-E369-4FB8-AB04-450F58330AEA}|temperature\\temperature.csproj|c:\\users\\senon\\desktop\\temperature\\temperature\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0D39108-E369-4FB8-AB04-450F58330AEA}|temperature\\temperature.csproj|solutionrelative:temperature\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0D39108-E369-4FB8-AB04-450F58330AEA}|temperature\\temperature.csproj|c:\\users\\senon\\desktop\\temperature\\temperature\\controllers\\sensordatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0D39108-E369-4FB8-AB04-450F58330AEA}|temperature\\temperature.csproj|solutionrelative:temperature\\controllers\\sensordatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0D39108-E369-4FB8-AB04-450F58330AEA}|temperature\\temperature.csproj|c:\\users\\senon\\desktop\\temperature\\temperature\\temperature.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B0D39108-E369-4FB8-AB04-450F58330AEA}|temperature\\temperature.csproj|solutionrelative:temperature\\temperature.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0D39108-E369-4FB8-AB04-450F58330AEA}|temperature\\temperature.csproj|c:\\users\\senon\\desktop\\temperature\\temperature\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B0D39108-E369-4FB8-AB04-450F58330AEA}|temperature\\temperature.csproj|solutionrelative:temperature\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0D39108-E369-4FB8-AB04-450F58330AEA}|temperature\\temperature.csproj|c:\\users\\senon\\desktop\\temperature\\temperature\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{B0D39108-E369-4FB8-AB04-450F58330AEA}|temperature\\temperature.csproj|c:\\users\\senon\\desktop\\automate-si-microprogramare-\\temperature\\temperature\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{B0D39108-E369-4FB8-AB04-450F58330AEA}|temperature\\temperature.csproj|solutionrelative:temperature\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0D39108-E369-4FB8-AB04-450F58330AEA}|temperature\\temperature.csproj|c:\\users\\senon\\desktop\\temperature\\temperature\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "AbsoluteMoniker": "D:0:0:{B0D39108-E369-4FB8-AB04-450F58330AEA}|temperature\\temperature.csproj|c:\\users\\senon\\desktop\\automate-si-microprogramare-\\temperature\\temperature\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D39108-E369-4FB8-AB04-450F58330AEA}|temperature\\temperature.csproj|solutionrelative:temperature\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D39108-E369-4FB8-AB04-450F58330AEA}|temperature\\temperature.csproj|c:\\users\\senon\\desktop\\automate-si-microprogramare-\\temperature\\temperature\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D39108-E369-4FB8-AB04-450F58330AEA}|temperature\\temperature.csproj|solutionrelative:temperature\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D39108-E369-4FB8-AB04-450F58330AEA}|temperature\\temperature.csproj|c:\\users\\senon\\desktop\\automate-si-microprogramare-\\temperature\\temperature\\sensordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D39108-E369-4FB8-AB04-450F58330AEA}|temperature\\temperature.csproj|solutionrelative:temperature\\sensordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D39108-E369-4FB8-AB04-450F58330AEA}|temperature\\temperature.csproj|c:\\users\\senon\\desktop\\automate-si-microprogramare-\\temperature\\temperature\\migrations\\20260423170511_firstversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D39108-E369-4FB8-AB04-450F58330AEA}|temperature\\temperature.csproj|solutionrelative:temperature\\migrations\\20260423170511_firstversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D39108-E369-4FB8-AB04-450F58330AEA}|temperature\\temperature.csproj|c:\\users\\senon\\desktop\\automate-si-microprogramare-\\temperature\\temperature\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D39108-E369-4FB8-AB04-450F58330AEA}|temperature\\temperature.csproj|solutionrelative:temperature\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D39108-E369-4FB8-AB04-450F58330AEA}|temperature\\temperature.csproj|c:\\users\\senon\\desktop\\automate-si-microprogramare-\\temperature\\temperature\\controllers\\sensordatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D39108-E369-4FB8-AB04-450F58330AEA}|temperature\\temperature.csproj|solutionrelative:temperature\\controllers\\sensordatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D39108-E369-4FB8-AB04-450F58330AEA}|temperature\\temperature.csproj|c:\\users\\senon\\desktop\\automate-si-microprogramare-\\temperature\\temperature\\temperature.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B0D39108-E369-4FB8-AB04-450F58330AEA}|temperature\\temperature.csproj|solutionrelative:temperature\\temperature.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D39108-E369-4FB8-AB04-450F58330AEA}|temperature\\temperature.csproj|c:\\users\\senon\\desktop\\automate-si-microprogramare-\\temperature\\temperature\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B0D39108-E369-4FB8-AB04-450F58330AEA}|temperature\\temperature.csproj|solutionrelative:temperature\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D39108-E369-4FB8-AB04-450F58330AEA}|temperature\\temperature.csproj|c:\\users\\senon\\desktop\\automate-si-microprogramare-\\temperature\\temperature\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{B0D39108-E369-4FB8-AB04-450F58330AEA}|temperature\\temperature.csproj|solutionrelative:temperature\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
@@ -74,11 +74,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\senon\\Desktop\\temperature\\temperature\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\senon\\Desktop\\Automate-si-microprogramare-\\temperature\\temperature\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "temperature\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\senon\\Desktop\\temperature\\temperature\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\senon\\Desktop\\Automate-si-microprogramare-\\temperature\\temperature\\Controllers\\HomeController.cs",
               "RelativeToolTip": "temperature\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAiwC0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -88,22 +88,22 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\senon\\Desktop\\temperature\\temperature\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\senon\\Desktop\\Automate-si-microprogramare-\\temperature\\temperature\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "temperature\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\senon\\Desktop\\temperature\\temperature\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\senon\\Desktop\\Automate-si-microprogramare-\\temperature\\temperature\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "temperature\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-05-08T22:18:23.515Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "20260423170511_FirstVersion.cs",
-              "DocumentMoniker": "C:\\Users\\senon\\Desktop\\temperature\\temperature\\Migrations\\20260423170511_FirstVersion.cs",
+              "DocumentMoniker": "C:\\Users\\senon\\Desktop\\Automate-si-microprogramare-\\temperature\\temperature\\Migrations\\20260423170511_FirstVersion.cs",
               "RelativeDocumentMoniker": "temperature\\Migrations\\20260423170511_FirstVersion.cs",
-              "ToolTip": "C:\\Users\\senon\\Desktop\\temperature\\temperature\\Migrations\\20260423170511_FirstVersion.cs",
+              "ToolTip": "C:\\Users\\senon\\Desktop\\Automate-si-microprogramare-\\temperature\\temperature\\Migrations\\20260423170511_FirstVersion.cs",
               "RelativeToolTip": "temperature\\Migrations\\20260423170511_FirstVersion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -111,23 +111,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\senon\\Desktop\\temperature\\temperature\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\senon\\Desktop\\Automate-si-microprogramare-\\temperature\\temperature\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "temperature\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\senon\\Desktop\\temperature\\temperature\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\senon\\Desktop\\Automate-si-microprogramare-\\temperature\\temperature\\Properties\\launchSettings.json",
               "RelativeToolTip": "temperature\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-05-07T15:49:56.682Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "SensorDataController.cs",
-              "DocumentMoniker": "C:\\Users\\senon\\Desktop\\temperature\\temperature\\Controllers\\SensorDataController.cs",
+              "DocumentMoniker": "C:\\Users\\senon\\Desktop\\Automate-si-microprogramare-\\temperature\\temperature\\Controllers\\SensorDataController.cs",
               "RelativeDocumentMoniker": "temperature\\Controllers\\SensorDataController.cs",
-              "ToolTip": "C:\\Users\\senon\\Desktop\\temperature\\temperature\\Controllers\\SensorDataController.cs",
+              "ToolTip": "C:\\Users\\senon\\Desktop\\Automate-si-microprogramare-\\temperature\\temperature\\Controllers\\SensorDataController.cs",
               "RelativeToolTip": "temperature\\Controllers\\SensorDataController.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAUwEQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -135,11 +135,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "SensorData.cs",
-              "DocumentMoniker": "C:\\Users\\senon\\Desktop\\temperature\\temperature\\SensorData.cs",
+              "DocumentMoniker": "C:\\Users\\senon\\Desktop\\Automate-si-microprogramare-\\temperature\\temperature\\SensorData.cs",
               "RelativeDocumentMoniker": "temperature\\SensorData.cs",
-              "ToolTip": "C:\\Users\\senon\\Desktop\\temperature\\temperature\\SensorData.cs",
+              "ToolTip": "C:\\Users\\senon\\Desktop\\Automate-si-microprogramare-\\temperature\\temperature\\SensorData.cs",
               "RelativeToolTip": "temperature\\SensorData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -149,9 +149,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\senon\\Desktop\\temperature\\temperature\\.gitignore",
+              "DocumentMoniker": "C:\\Users\\senon\\Desktop\\Automate-si-microprogramare-\\temperature\\temperature\\.gitignore",
               "RelativeDocumentMoniker": "temperature\\.gitignore",
-              "ToolTip": "C:\\Users\\senon\\Desktop\\temperature\\temperature\\.gitignore",
+              "ToolTip": "C:\\Users\\senon\\Desktop\\Automate-si-microprogramare-\\temperature\\temperature\\.gitignore",
               "RelativeToolTip": "temperature\\.gitignore",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
@@ -159,11 +159,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\senon\\Desktop\\temperature\\temperature\\Data\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\senon\\Desktop\\Automate-si-microprogramare-\\temperature\\temperature\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "temperature\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\senon\\Desktop\\temperature\\temperature\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\senon\\Desktop\\Automate-si-microprogramare-\\temperature\\temperature\\Data\\AppDbContext.cs",
               "RelativeToolTip": "temperature\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -171,11 +171,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\senon\\Desktop\\temperature\\temperature\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\senon\\Desktop\\Automate-si-microprogramare-\\temperature\\temperature\\appsettings.json",
               "RelativeDocumentMoniker": "temperature\\appsettings.json",
-              "ToolTip": "C:\\Users\\senon\\Desktop\\temperature\\temperature\\appsettings.json",
+              "ToolTip": "C:\\Users\\senon\\Desktop\\Automate-si-microprogramare-\\temperature\\temperature\\appsettings.json",
               "RelativeToolTip": "temperature\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -185,21 +185,21 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\senon\\Desktop\\temperature\\temperature\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\senon\\Desktop\\Automate-si-microprogramare-\\temperature\\temperature\\Program.cs",
               "RelativeDocumentMoniker": "temperature\\Program.cs",
-              "ToolTip": "C:\\Users\\senon\\Desktop\\temperature\\temperature\\Program.cs",
+              "ToolTip": "C:\\Users\\senon\\Desktop\\Automate-si-microprogramare-\\temperature\\temperature\\Program.cs",
               "RelativeToolTip": "temperature\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwCUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-23T16:17:56.212Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "temperature.csproj",
-              "DocumentMoniker": "C:\\Users\\senon\\Desktop\\temperature\\temperature\\temperature.csproj",
+              "DocumentMoniker": "C:\\Users\\senon\\Desktop\\Automate-si-microprogramare-\\temperature\\temperature\\temperature.csproj",
               "RelativeDocumentMoniker": "temperature\\temperature.csproj",
-              "ToolTip": "C:\\Users\\senon\\Desktop\\temperature\\temperature\\temperature.csproj",
+              "ToolTip": "C:\\Users\\senon\\Desktop\\Automate-si-microprogramare-\\temperature\\temperature\\temperature.csproj",
               "RelativeToolTip": "temperature\\temperature.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
